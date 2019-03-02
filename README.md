@@ -8,4 +8,8 @@
 4: Commit 43
 =======
 4: Commit 4
+<<<<<<< HEAD
 >>>>>>> Correction
+=======
+5. Commit 5
+>>>>>>> Fifth commit
